@@ -1,16 +1,31 @@
-### Hi there 👋, I am Abid Hossain
-#### Java developer
-![Java developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-1/583203279_1829865364317661_4920014788049157570_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeE8A6nxQ7jDQv_aTWadGtFZqxdWqPAMlXyrF1ao8AyVfIX9QO1vWtvUcN6ZomH0iZFrW783vVM7F_HMngeQRT1A&_nc_ohc=kfnsxOz4rvwQ7kNvwFABZSZ&_nc_oc=AdnBTF2NFGYo6n5jIIzUgrt4KNo4EHS8KmZSXdruILYOh0YWfYUIuDf16eVM_6rmIAM&_nc_zt=24&_nc_ht=scontent.fdac99-1.fna&_nc_gid=PKcKa3MaEp36IHdjbDIuww&oh=00_AfiusjnlUT6fOPjUPmk6j5wDpdieINu5EIIAj_NLHjKNTA&oe=6924B9FE)
-
-I’m Abid Hossain. I’m currently diving into Java development and sharpening my skills to become a full-stack Java developer. I love turning ideas into clean, working code—and I’m improving a little every single day.
+### 💫 Hi 👋, I'm Abid Hossain
+**A passionate Java developer|| Abid Hossain from Bangladesh**
 
 
-Skills: c/c++/Java/Linux / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+## 🔗 I am a Java Developer. 😊😊
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ryo-ma/github-profile-trophy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://fb.com/https://www.facebook.com/abid.hossain.79069)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/https://www.instagram.com/abidhossain448?igsh=yml2bzy2nwnvahi2/)  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/abid.hossain.79069) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/abidhossain448?igsh=yml2bzy2nwnvahi2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-abid-hossain-07110b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossain242-15-510@diu.edu.bd) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abidhossain510&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abidhossain510&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidhossain510&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abidhossain510&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abidhossain510&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abidhossain510&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
