@@ -1,9 +1,9 @@
-### 💫 Hi 👋, I'm Abid Hossain
-**A passionate Java developer|| Abid Hossain from Bangladesh**
+##### 💫 Hi 👋, I'm Abid Hossain
+**I am passionate about Java development|| Abid Hossain from Bangladesh**
 
 
 
-## 🔗 I am a Java Developer. 😊😊
+
 
 
 ## 🌐 Socials:
