@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Abid Hossain</h1>
-<h3 align="center">I’m Abid Hossain. I’m currently diving into Java development and sharpening my skills to become a full-stack Java developer. I love turning ideas into clean, working code—and I’m improving a little every single day.</h3>
+### Hi there 👋, I am Abid Hossain
+#### Java developer
+![Java developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-1/583203279_1829865364317661_4920014788049157570_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeE8A6nxQ7jDQv_aTWadGtFZqxdWqPAMlXyrF1ao8AyVfIX9QO1vWtvUcN6ZomH0iZFrW783vVM7F_HMngeQRT1A&_nc_ohc=kfnsxOz4rvwQ7kNvwFABZSZ&_nc_oc=AdnBTF2NFGYo6n5jIIzUgrt4KNo4EHS8KmZSXdruILYOh0YWfYUIuDf16eVM_6rmIAM&_nc_zt=24&_nc_ht=scontent.fdac99-1.fna&_nc_gid=PKcKa3MaEp36IHdjbDIuww&oh=00_AfiusjnlUT6fOPjUPmk6j5wDpdieINu5EIIAj_NLHjKNTA&oe=6924B9FE)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidhossain510" alt="abidhossain510" /></a> </p>
+I’m Abid Hossain. I’m currently diving into Java development and sharpening my skills to become a full-stack Java developer. I love turning ideas into clean, working code—and I’m improving a little every single day.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abid-hossain-07110b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abid-hossain-07110b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abid.hossain.79069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abid.hossain.79069" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abidhossain448?igsh=yml2bzy2nwnvahi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abidhossain448?igsh=yml2bzy2nwnvahi2" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+Skills: c/c++/Java/Linux / HTML / CSS
 
-<!-- Snake Game Repo View -->
+- 🔭 I’m currently working on this page. 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abidhossain510&show_icons=true&locale=en&layout=compact" alt="abidhossain510" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ryo-ma/github-profile-trophy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://fb.com/https://www.facebook.com/abid.hossain.79069)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/https://www.instagram.com/abidhossain448?igsh=yml2bzy2nwnvahi2/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy)
+
