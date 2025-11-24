@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Abid Hossain
-**I am passionate about Java development|| Abid Hossain from Bangladesh**
+**I am passionate about Java development  || Abid Hossain from Bangladesh**
 
 
 
